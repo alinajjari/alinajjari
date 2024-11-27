@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I am **Ali Najari**, a front-end developer interes
 - **AneeWeb**: [A site builder that creates a site for business owners in less than 5 minutes.]
 - **MoneyManagement**: [A small project about money management and cashback]
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinajjari&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 📊 GitHub Activity
+- Contributions: [link-to-your-activity]
+- Repositories: [link-to-repositories]
 
 ## 🧑‍💻 Let's Connect!
 
