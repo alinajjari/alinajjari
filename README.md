@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am **Ali Najari**, a front-end developer interes
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[alinajjari]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinajjari&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🧑‍💻 Let's Connect!
 
