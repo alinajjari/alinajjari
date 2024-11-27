@@ -1,6 +1,6 @@
-# Hi there, I'm Ali Najari 👋
+# Hi there, I'm Ali Najjari 👋
 
-Welcome to my GitHub profile! I am **Ali Najari**, a front-end developer interested in building interactive and user-centric applications. My main focus is on **JavaScript** and I'm currently working with **React** to create dynamic user interfaces. I enjoy working with others, learning new things, and sharing knowledge. If you have an interesting project or idea, I'd love to hear from you!
+Welcome to my GitHub profile! I am **Ali Najjari**, a front-end developer interested in building interactive and user-centric applications. My main focus is on **JavaScript** and I'm currently working with **React** to create dynamic user interfaces. I enjoy working with others, learning new things, and sharing knowledge. If you have an interesting project or idea, I'd love to hear from you!
 
 ## 🚀 About Me
 
