@@ -16,13 +16,6 @@ Welcome to my GitHub profile! I am **Ali Najjari**, a front-end developer intere
 
 - 📫 How to reach me: https://www.linkedin.com/in/ali-najjari/
 
-- ⚡ I have always been fascinated by how technology shapes our world. My programming journey led me to web development, where I am passionate about building user-centric and interactive applications.
-
-## 🛠️ Current Projects
-
-- **AneeWeb**: [A site builder that creates a site for business owners in less than 5 minutes.]
-- **MoneyManagement**: [A small project about money management and cashback]
-
 ## 📊 GitHub Activity Overview
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alinajjari&theme=radical&border_radius=12&hide_border=true)
